@@ -1,0 +1,21 @@
+body{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-image: url(pngtree-pink-brush-watercolor-with-natural-leaves-picture-image_1918745.jpg);
+background-size: cover;  
+
+
+}
+
+button{
+    outline: 0;
+    border: 0;
+    background-color: rgb(243, 128, 166);
+    border-radius: 5px;
+    cursor: pointer;
+    width: 200px;
+    padding: 10px;
+    transition: all .3s ease-in-out;
+    text-align: center;
+    color: #000;
+    font-weight: 500;
+}
